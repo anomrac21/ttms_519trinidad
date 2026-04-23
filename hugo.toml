@@ -53,7 +53,15 @@ baseURL = 'https://519trinidad.ttmenus.com/'
     enabled = true
     apiUrl = "https://cms.ttmenus.com/api"
     serviceUrl = "https://cms.ttmenus.com"
+    # Local content-management-service: use both lines below and restart Hugo
+    # apiUrl = "http://localhost:8084/api"
+    # serviceUrl = "http://localhost:8084"
     clientId = "ttms_519trinidad"
+
+# Menu Image Service - user-submitted images with admin approval
+[params.menuImageService]
+    enabled = true
+    apiUrl = "https://menu-images.ttmenus.com/api/v1"
     # For local development, use:
     # apiUrl = "http://localhost:8084/api"
     # serviceUrl = "http://localhost:8084"
@@ -64,11 +72,6 @@ baseURL = 'https://519trinidad.ttmenus.com/'
     apiUrl = "https://notify.ttmenus.com/api/v1"
     websocketUrl = "wss://notify.ttmenus.com/api/v1/ws/connect"
     serviceUrl = "https://notify.ttmenus.com"
-
-[params.features]
-    payments = false
-    delivery = false
-    notifications = true
 
 [params.orderingsystem]
     # Set to false to disable placing orders (cart still works; user gets message and order is cancelled)

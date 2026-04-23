@@ -1,7 +1,7 @@
 {
-    "name": "{{SITE_TITLE}}",
-    "short_name": "{{SITE_TITLE}}",
-    "description": "{{SITE_TITLE}} Digital Menu",
+    "name": "519 Restaurant & Bar",
+    "short_name": "519 Restaurant & Bar",
+    "description": "519 Restaurant & Bar Digital Menu",
     "start_url": ".",
     "background_color": "#000000",
     "display": "standalone",
