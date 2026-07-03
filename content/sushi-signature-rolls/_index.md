@@ -1,7 +1,9 @@
 ---
-title: "519 Signature Rolls"
+title: 519 Signature Rolls
 weight: 6
-icon: https://ct.ttmenus.com/icons/food/icon-sauce.webp
+icon: images/sushi-signature-rolls.webp
+images:
+    primary: images/sushi-signature-rolls.webp
 ---
 
 Signature and specialty rolls.

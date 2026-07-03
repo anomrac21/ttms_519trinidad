@@ -1,0 +1,6 @@
+# Exported in /index.json as top-level "mappin" for TTMenus hub map pins.
+# 519 Restaurant & Bar: burgundy fill, cream stroke.
+
+fill: "#85181c"
+border: "#f4dec3"
+border_width: 2

@@ -1,7 +1,9 @@
 ---
-title: "Non-Alcoholics"
+title: Non-Alcoholics
 weight: 36
-icon: https://ct.ttmenus.com/icons/food/icon-icedtea.webp
+icon: images/non-alcoholics.webp
+images:
+    primary: images/non-alcoholics.webp
 ---
 
 Soft drinks, mocktails, smoothies, and more.

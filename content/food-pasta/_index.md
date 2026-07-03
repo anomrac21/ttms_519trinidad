@@ -1,7 +1,9 @@
 ---
-title: "Pasta Station"
+title: Pasta Station
 weight: 15
-icon: https://ct.ttmenus.com/icons/food/icon-pasta.webp
+icon: images/food-pasta.webp
+images:
+    primary: images/food-pasta.webp
 ---
 
 Pasta, risotto, and noodles.

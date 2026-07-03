@@ -1,7 +1,9 @@
 ---
-title: "Vegetarian"
+title: Vegetarian
 weight: 11
-icon: https://ct.ttmenus.com/icons/food/icon-salads.webp
+icon: images/food-vegetarian.webp
+images:
+    primary: images/food-vegetarian.webp
 ---
 
 Vegetarian options.

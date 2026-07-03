@@ -1,7 +1,9 @@
 ---
-title: "519 Classic Rolls"
+title: 519 Classic Rolls
 weight: 5
-icon: https://ct.ttmenus.com/icons/food/icon-wrap.webp
+icon: images/sushi-classic-rolls.webp
+images:
+    primary: images/sushi-classic-rolls.webp
 ---
 
 House classic rolls.

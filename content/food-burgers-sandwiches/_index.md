@@ -1,7 +1,9 @@
 ---
-title: "Burgers & Sandwiches"
+title: Burgers & Sandwiches
 weight: 14
-icon: https://ct.ttmenus.com/icons/food/icon-bread.webp
+icon: images/food-burgers-sandwiches.webp
+images:
+    primary: images/food-burgers-sandwiches.webp
 ---
 
 Burgers and sandwiches.

@@ -1,7 +1,9 @@
 ---
-title: "Beers"
+title: Beers
 weight: 33
-icon: https://ct.ttmenus.com/icons/food/icon-beer.webp
+icon: images/beers.webp
+images:
+    primary: images/beers.webp
 ---
 
 Bottles, cans, and draft.

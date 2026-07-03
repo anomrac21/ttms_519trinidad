@@ -1,7 +1,9 @@
 ---
-title: "519 Sashimi"
+title: 519 Sashimi
 weight: 7
-icon: https://ct.ttmenus.com/icons/food/icon-salads.webp
+icon: images/sushi-sashimi.webp
+images:
+    primary: images/sushi-sashimi.webp
 ---
 
 Sashimi selections.

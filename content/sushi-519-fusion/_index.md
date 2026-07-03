@@ -1,7 +1,9 @@
 ---
-title: "519 FUSION"
+title: 519 FUSION
 weight: 4
-icon: https://ct.ttmenus.com/icons/food/icon-wontons.webp
+icon: images/sushi-519-fusion.webp
+images:
+    primary: images/sushi-519-fusion.webp
 ---
 
 Nigiri, fusion, and fusion rice or noodle bowls.

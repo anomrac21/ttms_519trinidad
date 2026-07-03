@@ -1,7 +1,9 @@
 ---
-title: "Shots & Shooters"
+title: Shots & Shooters
 weight: 32
-icon: https://ct.ttmenus.com/icons/food/icon-shots.webp
+icon: images/shots-shooters.webp
+images:
+    primary: images/shots-shooters.webp
 ---
 
 Shots and shooters.

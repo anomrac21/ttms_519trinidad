@@ -1,7 +1,9 @@
 ---
-title: "Wine"
+title: Wine
 weight: 35
-icon: https://ct.ttmenus.com/icons/food/icon-wine.webp
+icon: images/wine.webp
+images:
+    primary: images/wine.webp
 ---
 
 Wine, prosecco, and champagne selections.

@@ -1,7 +1,9 @@
 ---
-title: "Signature Cocktails"
+title: Signature Cocktails
 weight: 31
-icon: https://ct.ttmenus.com/icons/food/icon-rum.webp
+icon: images/signature-cocktails.webp
+images:
+    primary: images/signature-cocktails.webp
 ---
 
 House signature cocktails.
