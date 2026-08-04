@@ -86,7 +86,7 @@ enableRobotsTXT = true
   delivery = false
   notifications = true
   analytics_access = true
-  featured = true
+  featured = false
   exclusive_ads = false
   no_competitor_ads = false
   unmetered_traffic = false
@@ -103,7 +103,7 @@ enableRobotsTXT = true
   fallback_to_whatsapp = true
 
 [params.orderingsystem]
-  enabled = true
+  enabled = false
   orderingDisabledMessage = "Ordering is not available for this menu at this time."
   vat = 0
   servicecharge = 0
